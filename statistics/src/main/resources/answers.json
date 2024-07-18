@@ -1,0 +1,152 @@
+[
+  {
+    "city": "Москва",
+    "respondentsCount": 200,
+    "answer": "фырфырфыр"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "respondentsCount": 150,
+    "answer": "уруруру"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "respondentsCount": 100,
+    "answer": "ихихих"
+  },
+  {
+    "city": "Казань",
+    "respondentsCount": 120,
+    "answer": "вапапапа"
+  },
+  {
+    "city": "Абакан",
+    "respondentsCount": 100,
+    "answer": "вапапапа"
+  },
+  {
+    "city": "Астрахань",
+    "respondentsCount": 150,
+    "answer": "ихихих"
+  },
+  {
+    "city": "Архангельск",
+    "respondentsCount": 120,
+    "answer": "вапапапа"
+  },
+  {
+    "city": "Новосибирск",
+    "respondentsCount": 180,
+    "answer": "уруруру"
+  },
+  {
+    "city": "Омск",
+    "respondentsCount": 90,
+    "answer": "фырфырфыр"
+  },
+  {
+    "city": "Екатеринбург",
+    "respondentsCount": 130,
+    "answer": "ихихих"
+  },
+  {
+    "city": "Ростов-на-Дону",
+    "respondentsCount": 110,
+    "answer": "уруруру"
+  },
+  {
+    "city": "Воронеж",
+    "respondentsCount": 95,
+    "answer": "вапапапа"
+  },
+  {
+    "city": "Краснодар",
+    "respondentsCount": 140,
+    "answer": "фырфырфыр"
+  },
+  {
+    "city": "Самара",
+    "respondentsCount": 160,
+    "answer": "ихихих"
+  },
+  {
+    "city": "Уфа",
+    "respondentsCount": 105,
+    "answer": "уруруру"
+  },
+  {
+    "city": "Челябинск",
+    "respondentsCount": 125,
+    "answer": "вапапапа"
+  },
+  {
+    "city": "Тюмень",
+    "respondentsCount": 170,
+    "answer": "фырфырфыр"
+  },
+  {
+    "city": "Волгоград",
+    "respondentsCount": 80,
+    "answer": "ихихих"
+  },
+  {
+    "city": "Иркутск",
+    "respondentsCount": 115,
+    "answer": "уруруру"
+  },
+  {
+    "city": "Красноярск",
+    "respondentsCount": 145,
+    "answer": "вапапапа"
+  },
+  {
+    "city": "Пермь",
+    "respondentsCount": 75,
+    "answer": "уруруру"
+  },
+  {
+    "city": "Владивосток",
+    "respondentsCount": 155,
+    "answer": "фырфырфыр"
+  },
+  {
+    "city": "Оренбург",
+    "respondentsCount": 135,
+    "answer": "ихихих"
+  },
+  {
+    "city": "Томск",
+    "respondentsCount": 100,
+    "answer": "уруруру"
+  },
+  {
+    "city": "Кемерово",
+    "respondentsCount": 120,
+    "answer": "вапапапа"
+  },
+  {
+    "city": "Саратов",
+    "respondentsCount": 130,
+    "answer": "фырфырфыр"
+  },
+  {
+    "city": "Ульяновск",
+    "respondentsCount": 90,
+    "answer": "уруруру"
+  },
+  {
+    "city": "Ярославль",
+    "respondentsCount": 110,
+    "answer": "ихихих"
+  },
+  {
+    "city": "Иваново",
+    "respondentsCount": 95,
+    "answer": "вапапапа"
+  },
+  {
+    "city": "Тверь",
+    "respondentsCount": 140,
+    "answer": "уруруру"
+  }
+]

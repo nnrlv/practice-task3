@@ -1,0 +1,17 @@
+[
+  {
+    "city": "city1",
+    "respondentsCount": 1,
+    "answer": "answer1"
+  },
+  {
+    "city": "city2",
+    "respondentsCount": 2,
+    "answer": "answer2"
+  },
+  {
+    "city": "city3",
+    "respondentsCount": 3,
+    "answer": "answer3"
+  }
+]
